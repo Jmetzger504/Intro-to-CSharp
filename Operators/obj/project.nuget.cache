@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tj89XXygEggxPVH6yDZEjQNWHELsUWt7RDveiiKD8YxMzOkAW5i571qGDSg4/TCiTLV41Q7oysorBmuoOi2s+w==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\Revature Courses\\Intro to C#\\Operators\\Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmetz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
